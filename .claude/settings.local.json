@@ -4,7 +4,8 @@
       "WebSearch",
       "Bash(npx skills *)",
       "Bash(lark-cli --version)",
-      "Bash(lark-cli doctor *)"
+      "Bash(lark-cli doctor *)",
+      "Bash(lark-cli docs *)"
     ]
   }
 }
