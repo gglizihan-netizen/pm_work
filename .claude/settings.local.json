@@ -5,7 +5,14 @@
       "Bash(npx skills *)",
       "Bash(lark-cli --version)",
       "Bash(lark-cli doctor *)",
-      "Bash(lark-cli docs *)"
+      "Bash(lark-cli docs *)",
+      "Bash(dotnet run *)",
+      "Bash(pandoc --track-changes=all \"/d/桌面/招标文件正文.docx\" -o \"/d/桌面/招标文件正文.md\")",
+      "Bash(python3 -c \"import zipfile; zipfile.ZipFile\\('/d/桌面/招标文件正文.docx'\\).extractall\\('/d/桌面/招标文件正文_unpacked/'\\)\")",
+      "Bash(python3 -c \"import zipfile; zipfile.ZipFile\\('D:/桌面/招标文件正文.docx'\\).extractall\\('D:/桌面/招标文件正文_unpacked/'\\)\")",
+      "Read(//d/桌面/招标文件正文_unpacked/word/**)",
+      "Bash(python3 -c ' *)",
+      "Bash(pip install *)"
     ]
   }
 }
